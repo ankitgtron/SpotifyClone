@@ -6,6 +6,47 @@ SpotifyClone is a music streaming application built using the MERN stack. The ap
 
 ---
 
+### **Mission and Objectives for SpotifyClone**
+
+---
+
+### **Mission:**
+To create a feature-rich, responsive music streaming platform that combines real-time interactivity with seamless playback capabilities, empowering users to enjoy music, connect with others, and explore new content, while enabling admins to manage and analyze platform data efficiently.
+
+---
+
+### **Objectives:**
+1. **Music Playback:**
+   - Develop a robust player with controls for play, pause, next, previous, and volume adjustment.
+   - Implement queue management to allow seamless playlist transitions.
+
+2. **Real-Time Features:**
+   - Integrate real-time chat for users to connect while streaming music.
+   - Display activity updates to showcase what others are listening to in real time.
+
+3. **User Authentication:**
+   - Implement secure user authentication with support for multiple login providers using **Clerk**.
+   - Create admin-specific authentication for managing platform data.
+
+4. **Admin Dashboard:**
+   - Provide tools for creating and managing songs, albums, and user data.
+   - Visualize platform analytics, including total songs, users, and activity trends.
+
+5. **Responsive Design:**
+   - Design a mobile-first, responsive interface for seamless use across devices.
+
+6. **Secure and Scalable Backend:**
+   - Build a backend using **Node.js** and **Express** to handle APIs, authentication, and real-time data.
+   - Utilize **MongoDB** for scalable and efficient data storage.
+
+7. **Media Management:**
+   - Leverage **Cloudinary** for managing and delivering media assets, such as album artwork and song files.
+
+8. **Deployment:**
+   - Deploy the application on platforms like **Heroku** or **AWS** for global accessibility.
+
+---
+
 ## **Technology Stack**
 
 ### **Frontend**
@@ -75,6 +116,25 @@ SpotifyClone is a music streaming application built using the MERN stack. The ap
 2. **Cloudinary**
    - **Why:** Manages media assets like images and audio files efficiently.
    - **Use Case:** Stores and serves album artwork and song files.
+
+
+![image](https://github.com/user-attachments/assets/0852ad7b-588f-46e0-8336-7e4ed16cf2f1)
+![image](https://github.com/user-attachments/assets/cc98d964-754c-412f-8ebb-2d22727f1624)
+![image](https://github.com/user-attachments/assets/e8dcfa11-ed38-4a51-b0c5-daf6a81067e2)
+![image](https://github.com/user-attachments/assets/7a8ef991-d90a-44e3-ac90-39771d8eafed)
+![image](https://github.com/user-attachments/assets/8583999b-3285-42f3-8833-75f93310a512)
+![image](https://github.com/user-attachments/assets/fa735bff-7c35-4e8e-aac4-cc7f874cf8dc)
+![image](https://github.com/user-attachments/assets/f5c8b11f-9d43-4c79-a8f0-754b88877865)
+![image](https://github.com/user-attachments/assets/ebca0ba9-beb4-497d-a365-b41f563dd8f0)
+
+---
+# Project Structure for Feature Implementation
+This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
+
+---
+
+**NOTE:**
+Participants are encouraged to customize the user interface and incorporate additional features into the application. These modifications allow participants to demonstrate creativity, improve usability, and enhance the functionality of the project. Such enhancements align with the project’s objective of fostering innovative thinking while providing a personalized learning experience.
 
 ---
 
@@ -198,3 +258,26 @@ SpotifyClone is a music streaming application built using the MERN stack. The ap
   - Publicly accessible URL.
 
 ---
+
+**Checkout the screenshots for your references**
+![Screenshot (128)](https://github.com/user-attachments/assets/c416a860-438f-46f2-a688-39bacb152fbc)
+![Screenshot (129)](https://github.com/user-attachments/assets/bd3cbeb8-a255-4f76-a0e7-922e9da0338f)
+![Screenshot (130)](https://github.com/user-attachments/assets/5d9fbaed-8df3-428a-b509-ecefb73054a7)
+![Screenshot (131)](https://github.com/user-attachments/assets/a7e548c2-e855-43c1-85b2-a384852087c0)
+![Screenshot (132)](https://github.com/user-attachments/assets/2bee1d53-83e3-4864-885d-d489443bfe7d)
+![Screenshot (133)](https://github.com/user-attachments/assets/d9f1f516-8cfc-41f1-8190-0b65e23dc3f6)
+![Screenshot (134)](https://github.com/user-attachments/assets/6bd704c6-6175-4c15-8afe-469e28e322a3)
+![Screenshot (135)](https://github.com/user-attachments/assets/083724d0-7235-4099-8172-11f31d37c1cd)
+![Screenshot (136)](https://github.com/user-attachments/assets/6450736e-ab6e-4397-9437-d45ba96faf29)
+![Screenshot (137)](https://github.com/user-attachments/assets/5287032d-a64b-470c-aab4-3f95e9951ecd)
+![Screenshot (138)](https://github.com/user-attachments/assets/97a8028a-3baf-499f-ba3f-92c2a7121a74)
+![Screenshot (139)](https://github.com/user-attachments/assets/981f2f4a-ce40-4b8c-b326-c1c3cf14833e)
+![Screenshot (140)](https://github.com/user-attachments/assets/3efb3b67-f42b-4870-b725-4de6d70c95f2)
+![Screenshot (141)](https://github.com/user-attachments/assets/be160cc1-bae7-4388-9a45-71de16b84df7)
+![Screenshot (125)](https://github.com/user-attachments/assets/ea23d657-630f-4a83-9194-a42122d0ca88)
+![Screenshot (126)](https://github.com/user-attachments/assets/a51093dc-7297-4427-afe8-1eeb864aa23d)
+
+**The End**
+
+## References:
+https://github.com/burakorkmez/realtime-spotify-clone
