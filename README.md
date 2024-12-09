@@ -87,10 +87,10 @@ SpotifyClone is a music streaming application built using the MERN stack. The ap
 - **Tasks:**
   1. Create project directories for backend (`Node.js/Express`) and frontend (`React/TypeScript`).
      - **Reading:** [Setting Up a MERN Stack Project](https://www.mongodb.com/mern-stack)
-     - **Video:** [MERN Stack Full Course](https://www.youtube.com/watch?v=NCwa_xi0Uuc)  
+     - **Video:** [MERN Stack ](https://www.youtube.com/watch?v=fnpmR6Q5lEc)  
   2. Initialize a React app with TypeScript.
      - **Reading:** [React with TypeScript Docs](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup)  
-     - **Video:** [Setting Up React with TypeScript](https://www.youtube.com/watch?v=hb5GnBu5H7g)  
+     - **Video:** [Setting Up React with TypeScript](https://www.youtube.com/watch?v=FJDVKeh7RJI)  
   3. Set up a basic Express server and connect to MongoDB.
      - **Reading:** [Express.js Basics](https://expressjs.com/en/starter/installing.html)
      - **Video:** [MongoDB Integration](https://www.youtube.com/watch?v=WDrU305J1yw)
@@ -109,16 +109,16 @@ SpotifyClone is a music streaming application built using the MERN stack. The ap
 - **Tasks:**
   1. Integrate **Clerk** for user authentication.
      - **Reading:** [Clerk Documentation](https://clerk.dev/docs)  
-     - **Video:** [User Authentication with Clerk](https://www.youtube.com/watch?v=7Q17ubqLfaM)  
+     - **Video:** [User Authentication with Clerk](https://www.youtube.com/watch?v=RHFmsoiVtKE)  
   2. Create login and signup pages in React with Clerk integration.
      - **Reading:** [React Forms](https://react.dev/reference/react/forms)
-     - **Video:** [Building Forms in React](https://www.youtube.com/watch?v=IKjvDPPG6bQ)
+     - **Video:** [Building Forms in React](https://www.youtube.com/watch?v=Uj_hnNXlpzs)
   3. Set up an admin-only dashboard with protected routes.
      - **Reading:** [React Router Protection](https://reactrouter.com/en/main/start/tutorial)
-     - **Video:** [Route Protection in React](https://www.youtube.com/watch?v=qyomEaI7DBA)
+     - **Video:** [Route Protection in React](https://www.youtube.com/watch?v=VJov5QWEKE4)
   4. Add ShadCN UI components for buttons and modals.
-     - **Reading:** [ShadCN UI Documentation](https://shadcn.dev/docs/installation)
-     - **Video:** [ShadCN UI Setup](https://www.youtube.com/watch?v=RVZfFW-P60U)
+     - **Reading:** [ShadCN UI Documentation](https://ui.shadcn.com/docs)
+     - **Video:** [ShadCN UI Setup](https://www.youtube.com/watch?v=O4AjymzpIEg)
 
 - **Deliverables:**
   - Functional login/signup system.
@@ -131,13 +131,13 @@ SpotifyClone is a music streaming application built using the MERN stack. The ap
 - **Tasks:**
   1. Create MongoDB schemas for users, songs, and albums.
      - **Reading:** [Designing MongoDB Schemas](https://www.mongodb.com/docs/manual/data-modeling/)
-     - **Video:** [Mongoose Models](https://www.youtube.com/watch?v=oWeLbVkACCU)
+     - **Video:** [Mongoose Models](https://www.youtube.com/watch?v=DZBGEVgL2eE&t=30s)
   2. Implement playback controls (play, pause, next, previous) in React.
      - **Reading:** [React State for UI Updates](https://react.dev/reference/react/useState)
      - **Video:** [Building Custom Audio Players](https://www.youtube.com/watch?v=JW6XdATiSkM)
   3. Add queue management for playlists.
-     - **Reading:** [React Lists and Keys](https://react.dev/reference/react/lists-and-keys)
-     - **Video:** [Implementing Playlists in React](https://www.youtube.com/watch?v=PfqHPs6GZec)
+     - **Reading:** [React Lists and Keys](https://react.dev/learn/rendering-lists)
+     - **Video:** [Implementing Playlists in React](https://codesweetly.com/react-youtube-playlist/)
 
 - **Deliverables:**
   - Playback controls for songs.
@@ -150,13 +150,13 @@ SpotifyClone is a music streaming application built using the MERN stack. The ap
 - **Tasks:**
   1. Set up **Socket.IO** for real-time communication.
      - **Reading:** [Socket.IO Docs](https://socket.io/docs/v4/)
-     - **Video:** [Real-Time Apps with Socket.IO](https://www.youtube.com/watch?v=8LzZPzJLMfw)
+     - **Video:** [Real-Time Apps with Socket.IO](https://www.youtube.com/results?search_query=real+time+app+with+socket.io)
   2. Build a chat UI in React.
-     - **Reading:** [React Chat App Guide](https://reactjs.org/docs/react-api.html)
-     - **Video:** [Building a Chat App in React](https://www.youtube.com/watch?v=RXEy7yX7i4A)
+     - **Reading:** [React Chat App Guide](https://getstream.io/chat/docs/react/)
+     - **Video:** [Building a Chat App in React](https://www.youtube.com/watch?v=7dqxzFnu33g&list=PLSQi9CtBDLnNqmKdT7yiDUzzfbYDS4oLd)
   3. Add real-time activity feed (e.g., what users are listening to).
      - **Reading:** [Real-Time UI Updates](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)
-     - **Video:** [Building Real-Time Features](https://www.youtube.com/watch?v=zrxSKpOZS48)
+     - **Video:** [Building Real-Time Features](https://www.youtube.com/watch?v=7dqxzFnu33g&list=PLSQi9CtBDLnNqmKdT7yiDUzzfbYDS4oLd)
 
 - **Deliverables:**
   - Real-time chat system.
@@ -169,13 +169,13 @@ SpotifyClone is a music streaming application built using the MERN stack. The ap
 - **Tasks:**
   1. Build an admin dashboard to manage songs, albums, and users.
      - **Reading:** [React Dashboard Design](https://reactjs.org/docs/thinking-in-react.html)
-     - **Video:** [Building Admin Dashboards](https://www.youtube.com/watch?v=Rb4Gh3r9AVU)
+     - **Video:** [Building Admin Dashboards](https://www.youtube.com/watch?v=K7vHoUwClaM&list=PLEYW3pZS6IQ_a-iYAno4VsZonrikphq8L&index=2)
   2. Implement analytics for total songs, albums, users, and activity.
-     - **Reading:** [Data Visualization in React](https://reactchartjs.github.io/react-chartjs-2/)
-     - **Video:** [React Chart.js Tutorial](https://www.youtube.com/watch?v=Ly-9nc_sLUY)
+     - **Reading:** [Data Visualization in React](https://reactresources.com/topics/data-visualization)
+     - **Video:** [React Chart.js Tutorial](https://www.youtube.com/watch?v=ZpfseYy5Hxg)
   3. Secure admin routes using middleware.
      - **Reading:** [Express Middleware](https://expressjs.com/en/guide/using-middleware.html)
-     - **Video:** [Securing Routes with Middleware](https://www.youtube.com/watch?v=eVGEJ7hHjlg)
+     - **Video:** [Securing Routes with Middleware](https://www.youtube.com/watch?v=oj7kFRjKlCY)
 
 - **Deliverables:**
   - Functional admin dashboard.
@@ -188,10 +188,10 @@ SpotifyClone is a music streaming application built using the MERN stack. The ap
 - **Tasks:**
   1. Test all features, including chat, playback, admin functionalities, and analytics.
      - **Reading:** [Testing MERN Apps](https://jestjs.io/)
-     - **Video:** [Testing React Apps](https://www.youtube.com/watch?v=qI3U1tpF3i8)
+     - **Video:** [Testing React Apps](https://www.youtube.com/watch?v=8Xwq35cPwYg&t=147s)
   2. Deploy the app using Heroku or AWS.
-     - **Reading:** [Deploying MERN Apps](https://www.mongodb.com/mern-stack)
-     - **Video:** [Deploying React and Node.js Apps](https://www.youtube.com/watch?v=6jqKPBOFr9s)
+     - **Reading:** [Deploying MERN Apps](https://dev.to/kunalukey/how-to-setup-and-deploy-a-mern-stack-project-for-free-5acl)
+     - **Video:** [Deploying React and Node.js Apps](https://www.youtube.com/watch?v=l134cBAJCuc)
 
 - **Deliverables:**
   - Fully functional and live SpotifyClone app.
