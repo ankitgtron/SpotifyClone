@@ -1,8 +1,8 @@
 ---
 
 ## **Project Name: SpotifyClone**
-### **Overview:**
-**SpotifyClone** is a music streaming application built using the MERN stack. The app will feature real-time chat, music playback with queue management, a responsive design, and an admin dashboard for managing content. Users can stream music, manage playlists, and chat in real-time, while the admin can manage songs, albums, and analytics.
+
+SpotifyClone is a music streaming application built using the MERN stack. The app will feature real-time chat, music playback with queue management, a responsive design, and an admin dashboard for managing content. Users can stream music, manage playlists, and chat in real-time, while the admin can manage songs, albums, and analytics.
 
 ---
 
