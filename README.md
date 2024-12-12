@@ -128,6 +128,42 @@ To create a feature-rich, responsive music streaming platform that combines real
 ![image](https://github.com/user-attachments/assets/ebca0ba9-beb4-497d-a365-b41f563dd8f0)
 
 ---
+
+### **Workflow Overview**
+This section illustrates the complete workflow for users and admins in the **SpotifyClone** application, covering all major functionalities such as music streaming, playlist management, real-time chat, and content administration.
+
+---
+
+### **Flowchart**
+This section provides a visual representation of the overall flow of the **SpotifyClone** application, including user registration, music playback, playlist management, real-time chat, and admin content management.
+![diagram-export-12-12-2024-12_55_46-PM](https://github.com/user-attachments/assets/d4666413-dc09-4fee-8260-e6a201392c79)
+
+
+---
+
+### **System Architecture**
+This section demonstrates the high-level architecture of the **SpotifyClone** app, showcasing the interaction between the frontend, backend, database, and external services like Cloudinary for media storage and Socket.IO for real-time chat.
+![diagram-export-12-12-2024-1_10_06-PM](https://github.com/user-attachments/assets/023931b7-94f4-4913-a53e-0d4af8d9b65e)
+
+
+---
+
+### **Sequence Diagram**
+This section presents the sequence of interactions between the different components of the **SpotifyClone** application, including users, the backend system, music playback, playlist updates, and real-time chat.
+![diagram-export-12-12-2024-12_57_06-PM](https://github.com/user-attachments/assets/89ecc42a-eeb7-41f1-b589-cb21cb258af7)
+
+
+---
+
+### **Database Design**
+This section presents the database schema, highlighting the following:
+- The structure of **Users**, **Songs**, **Albums**, **Playlists**, and **Chats** collections.
+- Relationships between collections (e.g., **userID** in Playlists links to the Users collection, **songID** links to the Songs collection).
+- ![diagram-export-12-12-2024-12_56_21-PM](https://github.com/user-attachments/assets/c361890a-76d7-49b4-838c-d6bec4dacc73)
+
+
+---
+
 # Project Structure for Feature Implementation
 This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
 
